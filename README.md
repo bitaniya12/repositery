@@ -1,2 +1,0 @@
-# repositery
-a sample html
